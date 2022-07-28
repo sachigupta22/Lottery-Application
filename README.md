@@ -19,6 +19,10 @@ Project is created with:
     -   index.js: entry point of the react app
 -   public: contains all the static assets like html, logos and styles file which are to be served.
 
+### Backend Repository
+
+- link: https://github.com/sachigupta22/lottery-backend
+
 ### Backend
 
 -   db/mongoose.js: Configures the database.
